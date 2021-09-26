@@ -10,7 +10,9 @@ Read more about YOLO (in darknet) and download weight files [here](http://pjredd
 
 
 Click on this image to see demo from yolov2:
-<img src = 'http://i.imgur.com/EyZZKAA.gif'>
+
+<!-- <IMG SRC="http://i.imgur.com/EyZZKAA.gif"> -->
+
 
 ## Dependencies
 
